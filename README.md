@@ -1,4 +1,4 @@
-[profile-README.md](https://github.com/user-attachments/files/26661129/profile-README.md)
+
 # Florian Marianne
 
 Étudiant en Licence Informatique · Université de La Réunion  

@@ -1,29 +1,28 @@
-
 # Florian Marianne
 
-Étudiant en Licence Informatique · Université de La Réunion  
-Passionné par l'IA, l'automatisation et les outils privacy-first.
+Computer Science student · University of La Réunion  
+Interested in AI, automation and privacy-first tools.
 
 ---
 
 ## Stack
 
 **Languages** · Python · C · JavaScript · HTML/CSS · OCaml  
-**Outils** · Git · Docker · n8n · Ollama  
-**En cours d'apprentissage** · IA générative · Prompt engineering · Automatisation locale
+**Tools** · Git · Docker · n8n · LM Studio · Ollama  
+**Currently learning** · Generative AI · Prompt engineering · Local automation
 
 ---
 
-## Projets
+## Projects
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| [florian-links](https://github.com/florianm974/florian-links) | Linktree personnel — zéro dépendance | HTML · CSS · JS |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [florian-links](https://github.com/florianm974/florian-links) | Personal linktree — no dependencies | HTML · CSS · JS |
 
-*(d'autres projets arrivent)*
+*(more projects coming)*
 
 ---
 
-## Me contacter
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/florian-marianne/) · [flo.marianne31@proton.me](mailto:flo.marianne31@proton.me)

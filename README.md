@@ -1,16 +1,29 @@
-## Hi there 👋
+[profile-README.md](https://github.com/user-attachments/files/26661129/profile-README.md)
+# Florian Marianne
 
-<!--
-**florianm974/florianm974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en Licence Informatique · Université de La Réunion  
+Passionné par l'IA, l'automatisation et les outils privacy-first.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+**Languages** · Python · C · JavaScript · HTML/CSS · OCaml  
+**Outils** · Git · Docker · n8n · LM Studio · Ollama  
+**En cours d'apprentissage** · IA générative · Prompt engineering · Automatisation locale
+
+---
+
+## Projets
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [florian-links](https://github.com/florianm974/florian-links) | Linktree personnel — zéro dépendance | HTML · CSS · JS |
+
+*(d'autres projets arrivent)*
+
+---
+
+## Me contacter
+
+[LinkedIn](https://www.linkedin.com/in/florian-marianne/) · [flo.marianne31@proton.me](mailto:flo.marianne31@proton.me)

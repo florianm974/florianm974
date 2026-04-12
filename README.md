@@ -9,7 +9,7 @@ Passionné par l'IA, l'automatisation et les outils privacy-first.
 ## Stack
 
 **Languages** · Python · C · JavaScript · HTML/CSS · OCaml  
-**Outils** · Git · Docker · n8n · LM Studio · Ollama  
+**Outils** · Git · Docker · n8n · Ollama  
 **En cours d'apprentissage** · IA générative · Prompt engineering · Automatisation locale
 
 ---

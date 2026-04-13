@@ -17,7 +17,7 @@ Interested in AI, automation and privacy-first tools.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [promptforge](https://github.com/florianm974/promptforge) | Advanced AI prompt builder — chatbot & image generation | HTML · CSS · JS |
+| [prompt-forge](https://github.com/florianm974/prompt-forge) | Advanced AI prompt builder — chatbot & image generation | HTML · CSS · JS |
 | [florian-links](https://github.com/florianm974/florian-links) | Personal linktree — no dependencies | HTML · CSS · JS |
 
 ---

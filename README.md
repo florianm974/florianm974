@@ -8,7 +8,7 @@ Interested in AI, automation and privacy-first tools.
 ## Stack
 
 **Languages** · Python · C · JavaScript · HTML/CSS · OCaml  
-**Tools** · Git · Docker · n8n · Ollama  
+**Tools** · Git · Docker · n8n · LM Studio · Ollama  
 **Currently learning** · Generative AI · Prompt engineering · Local automation
 
 ---
@@ -17,9 +17,8 @@ Interested in AI, automation and privacy-first tools.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [promptforge](https://github.com/florianm974/promptforge) | Advanced AI prompt builder — chatbot & image generation | HTML · CSS · JS |
 | [florian-links](https://github.com/florianm974/florian-links) | Personal linktree — no dependencies | HTML · CSS · JS |
-
-*(more projects coming)*
 
 ---
 

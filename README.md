@@ -17,7 +17,7 @@ Interested in AI, automation and privacy-first tools.
 
 **Languages** · Python · C · JavaScript · HTML/CSS · OCaml
 
-**Tools** · Git · Docker · n8n · LM Studio · Ollama
+**Tools** · Git · Docker · n8n · Ollama
 
 **Currently learning** · Generative AI · Prompt engineering · Local automation
 

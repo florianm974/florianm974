@@ -27,7 +27,7 @@ Interested in AI, automation and privacy-first tools.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Ksos-game-portal](https://github.com/florianm974/Ksos-game-portal) | Collective portal for the KSOS dev group — 4 members, all projects in one place | HTML · CSS · JS |
+| [KSOS](https://github.com/florianm974/KSOS) | Collective portal for the KSOS dev group — 4 members, all projects in one place | HTML · CSS · JS |
 | [prompt-forge](https://github.com/florianm974/prompt-forge) | Advanced AI prompt builder — chatbot & image generation | HTML · CSS · JS |
 | [florian-links](https://github.com/florianm974/florian-links) | Personal linktree — no dependencies | HTML · CSS · JS |
 

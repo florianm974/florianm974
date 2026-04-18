@@ -30,9 +30,3 @@ Interested in AI, automation and privacy-first tools.
 | [KSOS](https://github.com/florianm974/KSOS) | Collective portal for the KSOS dev group — 4 members, all projects in one place | HTML · CSS · JS |
 | [prompt-forge](https://github.com/florianm974/prompt-forge) | Advanced AI prompt builder — chatbot & image generation | HTML · CSS · JS |
 | [florian-links](https://github.com/florianm974/florian-links) | Personal linktree — no dependencies | HTML · CSS · JS |
-
----
-
-<div align="center">
-<sub>L2 Informatique · Université de La Réunion · 2024–2025</sub>
-</div>

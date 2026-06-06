@@ -17,7 +17,7 @@ Interested in AI, automation and privacy-first tools.
 
 **Languages** · Python · C · JavaScript · HTML/CSS · OCaml
 
-**Tools** · Git · Docker · n8n · Ollama
+**Tools** · Git · Docker · n8n
 
 **Currently learning** · Generative AI · Prompt engineering · Local automation
 
@@ -25,8 +25,8 @@ Interested in AI, automation and privacy-first tools.
 
 ## Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [KSOS](https://github.com/florianm974/KSOS) | Collective portal for the KSOS dev group — 4 members, all projects in one place | HTML · CSS · JS |
-| [prompt-forge](https://github.com/florianm974/prompt-forge) | Advanced AI prompt builder — chatbot & image generation | HTML · CSS · JS |
-| [florian-links](https://github.com/florianm974/florian-links) | Personal linktree — no dependencies | HTML · CSS · JS |
+| Project                                                       | Description                                                                     | Stack           |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------------- |
+| [KSOS](https://github.com/florianm974/KSOS)                   | Collective portal for the KSOS dev group — 4 members, all projects in one place | HTML · CSS · JS |
+| [prompt-forge](https://github.com/florianm974/prompt-forge)   | Advanced AI prompt builder — chatbot & image generation                         | HTML · CSS · JS |
+| [florian-links](https://github.com/florianm974/florian-links) | Personal linktree — no dependencies                                             | HTML · CSS · JS |

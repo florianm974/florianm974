@@ -12,7 +12,7 @@
 
 ## About me
 
-Computer Science student (L2) at the University of La Réunion 🏝️, on an AI engineering track.
+Computer Science student (L3) at the University of La Réunion 🏝️, on an AI engineering track.
 
 I build tools focused on **local AI**, **automation**, and **privacy** mostly self-hosted, mostly open-source. I'm interested in prompt engineering, agentic systems, and making things that are genuinely useful in a French island context.
 

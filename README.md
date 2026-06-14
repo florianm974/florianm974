@@ -46,18 +46,6 @@ I build tools focused on **local AI**, **automation**, and **privacy** mostly se
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=florianm974&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=94A3B8)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianm974&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=94A3B8)
-
-</div>
-
----
-
 <div align="center">
 
 *Built from La Réunion 🌋, shipped to the world.*

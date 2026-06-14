@@ -42,7 +42,7 @@ I build tools focused on **local AI**, **automation**, and **privacy** mostly se
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-7C3AED?style=flat)
-![Claude](https://img.shields.io/badge/Claude_API-D97706?style=flat)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=flat)
 
 ---
 

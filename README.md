@@ -14,7 +14,7 @@
 
 Computer Science student (L2) at the University of La Réunion 🏝️, on an AI engineering track.
 
-I build tools focused on **local AI**, **automation**, and **privacy** — mostly self-hosted, mostly open-source. I'm interested in prompt engineering, agentic systems, and making things that are genuinely useful in a French island context.
+I build tools focused on **local AI**, **automation**, and **privacy** mostly self-hosted, mostly open-source. I'm interested in prompt engineering, agentic systems, and making things that are genuinely useful in a French island context.
 
 ---
 
@@ -26,7 +26,6 @@ I build tools focused on **local AI**, **automation**, and **privacy** — mostl
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat&logo=ocaml&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
@@ -44,27 +43,6 @@ I build tools focused on **local AI**, **automation**, and **privacy** — mostl
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-7C3AED?style=flat)
 ![Claude](https://img.shields.io/badge/Claude_API-D97706?style=flat)
-
----
-
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🛒 [PrixRéunion](https://github.com/florianm974/prix-reunion) | Price comparator for La Réunion — scraping + local stores | FastAPI · React · PostgreSQL |
-| 🎲 [Ti'Run](https://github.com/florianm974/ti-run) | Web adaptation of a Réunion-themed board game | HTML · CSS · JS |
-| 🤝 [KSOS](https://github.com/florianm974/KSOS) | Collective dev portal — 4 members, all projects in one place | HTML · CSS · JS |
-| 🧠 [prompt-forge](https://github.com/florianm974/prompt-forge) | AI prompt builder for chat & image generation | HTML · CSS · JS |
-| 🔗 [florian-links](https://github.com/florianm974/florian-links) | Personal linktree — no dependencies, dark-gothic aesthetic | HTML · CSS · JS |
-| 📰 [tech-digest](https://github.com/florianm974/tech-digest) | Terminal tech news digest | Python |
-
----
-
-## Currently building
-
-- 🔨 **PrixRéunion** — a FastAPI + React price comparator tailored for local Réunion retailers
-- 🤖 **Local AI stack** — Ollama + Open WebUI + custom agents running on AMD RX 7800 XT
-- ⚡ **Automation flows** — n8n pipelines for daily AI-assisted monitoring
 
 ---
 

@@ -36,7 +36,7 @@ Je construis des outils axés sur **l'IA locale**, **l'automatisation** et **la 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**IA & inférence locale**
+**IA**
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat)

@@ -4,7 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-marianne/)
 [![Proton Mail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:flo.marianne31@proton.me)
-[![Portfolio](https://img.shields.io/badge/florian--links-111827?style=flat&logo=github&logoColor=white)](https://florianm974.github.io/florian-links/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=github&logoColor=white)](https://florianm974.github.io/portfolio/)
+[![Liens](https://img.shields.io/badge/Liens-111827?style=flat&logo=github&logoColor=white)](https://florianm974.github.io/florian-links/)
 
 </div>
 
@@ -40,5 +41,13 @@ Je construis des outils axés sur **l'IA locale**, **l'automatisation** et **la 
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat)
+
+---
+
+## Projets
+
+- **[Local RAG Agent](https://github.com/florianm974/local-rag-agent)** — Agent de question-réponse 100 % local sur documents personnels (Ollama + FastAPI + RAG), avec interface web, mémoire de conversation et mode révision QCM.
+- **[KSOS](https://github.com/florianm974/KSOS)** — Portail collectif de jeux et projets pour un groupe de développeurs à La Réunion.
+- **[Portfolio](https://github.com/florianm974/portfolio)** — Portfolio personnel présentant mon parcours et mes projets.
 
 ---

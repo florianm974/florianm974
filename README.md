@@ -48,6 +48,8 @@ Je construis des outils axés sur **l'IA locale**, **l'automatisation** et **la 
 
 - **[Local RAG Agent](https://github.com/florianm974/local-rag-agent)** — Agent de question-réponse 100 % local sur documents personnels (Ollama + FastAPI + RAG), avec interface web, mémoire de conversation et mode révision QCM.
 - **[KSOS](https://github.com/florianm974/KSOS)** — Portail collectif de jeux et projets pour un groupe de développeurs à La Réunion.
+- **[Prompt Forge](https://github.com/florianm974/prompt-forge)** — Constructeur de prompts IA pour chatbot et génération d'images, sans dépendances.
 - **[Portfolio](https://github.com/florianm974/portfolio)** — Portfolio personnel présentant mon parcours et mes projets.
+- **[Florian Links](https://github.com/florianm974/florian-links)** — Page de liens personnelle minimaliste, alternative privacy-first à Linktree.
 
 ---

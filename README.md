@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey%2C+je+suis+Florian+%F0%9F%8F%9D%EF%B8%8F;%C3%89tudiant+en+Info+%40+Univ.+La+R%C3%A9union;IA+%C2%B7+Automatisation+%C2%B7+Privacy-first" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey%2C+je+suis+Florian+%F0%9F%8F%9D%EF%B8%8F;%C3%89tudiant+en+Info+%40+Univ.+La+R%C3%A9union;IA+%C2%B7+Automatisation+%C2%B7+Privacy-first&color=FF3D3D" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-marianne/)
 [![Proton Mail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:flo.marianne31@proton.me)

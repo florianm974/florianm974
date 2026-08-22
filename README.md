@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:A78BFA,100:8B5CF6&height=200&section=header&text=Florian%20Marianne&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=IA%20%C2%B7%20Automatisation%20%C2%B7%20Privacy-first&descSize=18&descAlignY=72" alt="Bannière" width="100%" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey%2C+je+suis+Florian+%F0%9F%8F%9D%EF%B8%8F;%C3%89tudiant+en+Info+%40+Univ.+La+R%C3%A9union;IA+%C2%B7+Automatisation+%C2%B7+Privacy-first" alt="Typing SVG" />
@@ -19,17 +21,33 @@ Je construis des outils axés sur **l'IA locale**, **l'automatisation** et **la 
 
 ---
 
+## Statistiques
+
+| Statistiques | Langages |
+|--------------|----------|
+| ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=florianm974&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=A78BFA) | ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=florianm974&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=c9d1d9&langs_count=8) |
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=florianm974&hide_border=true&background=00000000&ring=A78BFA&fire=D97757&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B8D93&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Série de commits" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=florianm974&no-frame=true&no-bg=true&row=1&column=7&margin-w=6&theme=radical" alt="Trophées" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=florianm974&hide_border=true&bg_color=00000000&color=c9d1d9&line=A78BFA&point=D97757&area=true&area_color=7C3AED" alt="Activité annuelle" />
+</div>
+
+---
+
 ## Stack
 
 **Langages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+[![Mes langages](https://skillicons.dev/icons?i=py,js,c,java,html,css,postgres)](https://skillicons.dev)
+
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat&logo=ocaml&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **IA & Automatisation**
 
@@ -41,18 +59,11 @@ Je construis des outils axés sur **l'IA locale**, **l'automatisation** et **la 
 
 **Web & Outils**
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+[![Mes outils](https://skillicons.dev/icons?i=tailwind,nodejs,php,docker,git,linux)](https://skillicons.dev)
 
 **En apprentissage**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+[![En apprentissage](https://skillicons.dev/icons?i=fastapi,react)](https://skillicons.dev)
 
 ---
 
@@ -65,3 +76,11 @@ Je construis des outils axés sur **l'IA locale**, **l'automatisation** et **la 
 - **[Florian Links](https://github.com/florianm974/florian-links)** — Page de liens personnelle minimaliste, alternative privacy-first à Linktree.
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/florianm974/florianm974/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/florianm974/florianm974/output/github-snake.svg" />
+  <img alt="Animation du serpent mangeant mes contributions" src="https://raw.githubusercontent.com/florianm974/florianm974/output/github-snake.svg" width="100%" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:4C1D95&height=120&section=footer" alt="" width="100%" />

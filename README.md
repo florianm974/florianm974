@@ -25,14 +25,10 @@ Je construis des outils axés sur **l'IA locale**, **l'automatisation** et **la 
 
 | Statistiques | Langages |
 |--------------|----------|
-| ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=florianm974&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=A78BFA) | ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=florianm974&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=c9d1d9&langs_count=8) |
+| ![Statistiques GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=florianm974&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=A78BFA) | ![Langages les plus utilisés](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=florianm974&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=c9d1d9&langs_count=8) |
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=florianm974&hide_border=true&background=00000000&ring=A78BFA&fire=D97757&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B8D93&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Série de commits" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=florianm974&no-frame=true&no-bg=true&row=1&column=7&margin-w=6&theme=radical" alt="Trophées" />
 </div>
 
 <div align="center">

@@ -36,7 +36,7 @@ Je construis des outils axés sur **l'IA locale**, **l'automatisation** et **la 
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6D4AFF?style=flat)
 ![LLM](https://img.shields.io/badge/LLM-000000?style=flat)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat)
 
 **Web & Outils**

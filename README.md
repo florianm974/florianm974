@@ -15,7 +15,7 @@
 
 Étudiant en Licence Informatique (L3) à l'Université de La Réunion 🏝️, parcours IA.
 
-Je construis des outils axés sur **l'IA locale**, **l'automatisation** et **la vie privée** — principalement auto-hébergés, principalement open-source. Je m'intéresse au prompt engineering, aux systèmes agentiques, et à créer des choses réellement utiles depuis une île française.
+Je construis des outils axés sur **l'IA locale**, **l'automatisation** et **la vie privée** principalement auto-hébergés, principalement open-source. Je m'intéresse au prompt engineering, aux systèmes agentiques, et à créer des choses réellement utiles depuis une île française.
 
 ---
 
